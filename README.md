@@ -2,6 +2,18 @@
 
 
 
+![image](https://user-images.githubusercontent.com/14288989/233642504-ca5c65e8-4541-4121-b235-e3023469ecd9.png)
+
+
+
+![image](https://user-images.githubusercontent.com/14288989/233642600-d96c39f5-24f8-4cc7-814f-ded78a3d210c.png)
+
+
+![image](https://user-images.githubusercontent.com/14288989/233642692-24e23f4f-dabf-4701-9b81-bb14223d3dc7.png)
+
+
+
+
 ```
 #include <stdio.h>
 #include <string.h>
